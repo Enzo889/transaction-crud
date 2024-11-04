@@ -1,0 +1,10 @@
+/home/enzo/NetBeansProjects/transaction/src/main/java/com/transaction/transaction/igu/Index.java
+/home/enzo/NetBeansProjects/transaction/src/main/java/com/transaction/transaction/persistence/PersistenceController.java
+/home/enzo/NetBeansProjects/transaction/src/main/java/com/transaction/transaction/logic/Transaction.java
+/home/enzo/NetBeansProjects/transaction/src/main/java/com/transaction/transaction/logic/Controller.java
+/home/enzo/NetBeansProjects/transaction/src/main/java/com/transaction/transaction/persistence/exceptions/PreexistingEntityException.java
+/home/enzo/NetBeansProjects/transaction/src/main/java/com/transaction/transaction/Transaction.java
+/home/enzo/NetBeansProjects/transaction/src/main/java/com/transaction/transaction/igu/TransactionAdd.java
+/home/enzo/NetBeansProjects/transaction/src/main/java/com/transaction/transaction/persistence/TransactionJpaController.java
+/home/enzo/NetBeansProjects/transaction/src/main/java/com/transaction/transaction/persistence/exceptions/NonexistentEntityException.java
+/home/enzo/NetBeansProjects/transaction/src/main/java/com/transaction/transaction/persistence/exceptions/IllegalOrphanException.java
